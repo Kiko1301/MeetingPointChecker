@@ -72,4 +72,11 @@ The meeting is successful **only if**:
 *   A graphical user interface (GUI).
 
 ---
+
 **Note:** The prompts in the application are in Macedonian.
+
+---
+
+License 📜
+
+This project is open source under the MIT License.
